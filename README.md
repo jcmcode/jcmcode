@@ -4,11 +4,11 @@
 I am a third-year Applied Mathematics and Computer Engineering student at Queen's University in Kingston. I am passionate about software engineering, quantitative research, and finance.
 
 ## 🚀 Current Role
-- Project Manager at QUANTT (2024), managing the Pairs Trading Project
+**Project Manager at QUANTT (2024—Present):** Leading the Pairs Trading Project, focused on developing and identifying statistically correlated pairs to exploit through quantitative trading strategies.
 
 ## 🎯 Interests & Goals
 - Technology, software development, and quantitative finance
-- Open to opportunities in finance, technology, and research
+- Fascinated by the intersection between mathematics, computing and technology, and finance
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-moores/)
@@ -29,6 +29,10 @@ Python Libraries:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 # ⚡ Outside of Work
-- Sports fan
-- Interested in film and television
-- Enjoy creative building and design
+- 🏎️ Big Formula One fan — currently building an **F1 Race Predictor** using machine learning and the *fastf1* API to deepen my ML experience  
+- ⚾ Lifelong **Blue Jays** supporter  
+- 🎵 Passionate about **film and TV soundtracks**, especially Hans Zimmer’s work  
+- 🎬 Huge fan of movies and television — I love studying what makes great storytelling and cinematography
+
+  
+
