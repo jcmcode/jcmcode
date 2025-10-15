@@ -13,7 +13,7 @@ I am a third-year Applied Mathematics and Computer Engineering student at Queen'
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-moores/)
 
-# 💻 Tech Stack
+# 💻 Tools
 
 Languages:  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
