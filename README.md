@@ -38,10 +38,11 @@ Python Libraries:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-ff6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
-APIs / Web Tools:
+APIs:
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
+---
 
 # ⚡ Outside of Work
 - 🏎️ Big Formula One fan — currently building an **F1 Race Predictor** using machine learning and the *fastf1* API to deepen my ML experience   
