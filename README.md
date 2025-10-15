@@ -3,6 +3,10 @@
 # 💫 About Me
 I am a third-year Applied Mathematics and Computer Engineering student at Queen's University in Kingston. I am passionate about software engineering, quantitative research, and finance.
 
+![Queen's University](https://img.shields.io/badge/Queen's_University-7F0000?style=for-the-badge)
+![Applied Mathematics & Computer Engineering](https://img.shields.io/badge/Applied_Math_&_CompEng-0033A0?style=for-the-badge)
+
+
 ## 🚀 What I'm Up To
 **Project Manager at QUANTT (2024—Present):** Leading the Pairs Trading Project, focused on developing and identifying statistically correlated pairs to exploit through quantitative trading strategies.
 
@@ -43,8 +47,7 @@ APIs / Web Tools:
 - 🏎️ Big Formula One fan — currently building an **F1 Race Predictor** using machine learning and the *fastf1* API to deepen my ML experience   
 - 🎵 Passionate about **film and TV soundtracks**, especially Hans Zimmer’s work
 
-![Queen's University](https://img.shields.io/badge/Queen's_University-7F0000?style=for-the-badge)
-![Applied Mathematics & Computer Engineering](https://img.shields.io/badge/Applied_Math_&_CompEng-0033A0?style=for-the-badge)
+
 
 
   
