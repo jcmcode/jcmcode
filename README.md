@@ -45,7 +45,7 @@ APIs:
 ---
 
 # ⚡ Personal Interests
-- 🏎️ Big Formula One fan — currently building an **F1 Race Predictor** using machine learning and the *fastf1* API to deepen my ML experience   
+- 🏎️ Formula One fan    
 - 🎵 Passionate about **film and TV soundtracks**, especially Hans Zimmer’s work
 
 
